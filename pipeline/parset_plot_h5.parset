@@ -2,7 +2,7 @@
 ! job_directory                  = /data009/scratch/carosko/job
 ! res_directory                  = /data009/scratch/carosko/res
 #################################################
-! plot_solH5_script              = /home/carosko/lbbw/comp_cha/script/jupy_l.py
+! plot_solH5_script              = /path/to/script/plot_h5.py
 #################################################
 ! target_input_path              = /data020/scratch/lb_bw/test_losoto_delay_calibration/noCS_circular/
 #/data020/scratch/lb_bw/test_losoto_delay_calibration/16sec_1SB_2comp_uvcutCS/
